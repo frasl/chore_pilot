@@ -15,7 +15,7 @@ Commit all changes from the current session using the project changelist as the 
 ## Steps
 
 1. **Read the commit message**  
-   Read `changelist.md`. If it is empty or missing, ask the user for a commit message or to add content to `changelist.md` before committing.
+   Read `changelist.md`. If it is empty or missing, suggest contents, based on the changes made in the current session. Ask explicitly for user's approval. 
 
 2. **Stage all changes except changelist.md**  
    Stage every changed file in the workspace **except** `changelist.md`.  
