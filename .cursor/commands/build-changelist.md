@@ -1,0 +1,2 @@
+- Make a description of all changes, made since the last commit or since session start, whatever comes last, write to changes.md
+- Analyze changes.md, make a 1-5 line commit message, write to commit-message.md

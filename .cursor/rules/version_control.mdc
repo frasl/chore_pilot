@@ -2,6 +2,5 @@
 alwaysApply: true
 ---
 
-- For any open agent session maintain a changelist (/changelist.md), which should never be added into git
-- Changelist must be very brief - like a commit message. Reference documentation or issues instead of quoting them
+- execute git add for any new source or documentation file 
 
