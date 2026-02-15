@@ -8,3 +8,5 @@ alwaysApply: true
 - A change in PRD or UserStories must cause a change in Implementation Status
 - A change in code must cause a change in Implementation Status
 - All implemented API endpoints must first be described in API.md
+- If something is ambiguous, list assumptions and ask for a choice instead of inventing details
+
